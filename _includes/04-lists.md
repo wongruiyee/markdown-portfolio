@@ -1,5 +1,5 @@
-*cake
-  *chocolate
-  *banana walnut
-*swimming pools
-*lotus soup
+* cake
+  * chocolate
+  * banana walnut
+* swimming pools
+* lotus soup
