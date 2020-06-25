@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+*cake
+  *chocolate
+  *banana walnut
+*swimming pools
+*lotus soup
